@@ -1,8 +1,8 @@
 {
-  "generated": "May 04, 2026  03:51 PM",
+  "generated": "May 04, 2026  03:59 PM",
   "date": "2026-05-04",
   "universe_scanned": 494,
-  "total_setups": 147,
+  "total_setups": 146,
   "tension_score": 79,
   "tension_label": "High",
   "macro": [
@@ -124,10 +124,10 @@
     },
     {
       "label": "Bitcoin          (BTC/USD)",
-      "price": 78996.19,
-      "chg_pct": 0.58,
-      "sma20": 76962.86,
-      "vs_sma_pct": 2.64,
+      "price": 78951.1,
+      "chg_pct": 0.53,
+      "sma20": 76960.61,
+      "vs_sma_pct": 2.59,
       "history": [
         0.0,
         0.464,
@@ -148,15 +148,15 @@
         4.51,
         5.15,
         4.991,
-        5.603
+        5.542
       ]
     },
     {
       "label": "Ethereum         (ETH/USD)",
-      "price": 2341.7,
-      "chg_pct": 0.86,
-      "sma20": 2323.85,
-      "vs_sma_pct": 0.77,
+      "price": 2340.3,
+      "chg_pct": 0.8,
+      "sma20": 2323.78,
+      "vs_sma_pct": 0.71,
       "history": [
         0.0,
         -0.457,
@@ -177,15 +177,15 @@
         -2.727,
         -1.831,
         -1.602,
-        -0.752
+        -0.811
       ]
     },
     {
       "label": "Dollar Index     (DXY)",
-      "price": 98.32,
-      "chg_pct": 0.11,
+      "price": 98.31,
+      "chg_pct": 0.1,
       "sma20": 98.5,
-      "vs_sma_pct": -0.19,
+      "vs_sma_pct": -0.2,
       "history": [
         0.0,
         -0.512,
@@ -206,15 +206,15 @@
         -0.723,
         -1.566,
         -1.435,
-        -1.33
+        -1.339
       ]
     },
     {
       "label": "Gold Futures     (GC=F / XAU)",
-      "price": 4581.2,
-      "chg_pct": -1.05,
-      "sma20": 4713.7,
-      "vs_sma_pct": -2.81,
+      "price": 4582.2,
+      "chg_pct": -1.03,
+      "sma20": 4713.75,
+      "vs_sma_pct": -2.79,
       "history": [
         0.0,
         1.984,
@@ -235,15 +235,15 @@
         -2.403,
         -0.91,
         -0.584,
-        -1.63
+        -1.608
       ]
     },
     {
       "label": "Silver Futures   (SI=F / XAG)",
-      "price": 74.41,
-      "chg_pct": -2.03,
+      "price": 74.4,
+      "chg_pct": -2.04,
       "sma20": 76.21,
-      "vs_sma_pct": -2.36,
+      "vs_sma_pct": -2.37,
       "history": [
         0.0,
         4.731,
@@ -264,15 +264,15 @@
         -0.358,
         2.378,
         5.743,
-        3.598
+        3.591
       ]
     },
     {
       "label": "VIX Volatility   (^VIX)",
-      "price": 17.83,
-      "chg_pct": 4.94,
+      "price": 17.77,
+      "chg_pct": 4.59,
       "sma20": 18.91,
-      "vs_sma_pct": -5.73,
+      "vs_sma_pct": -6.04,
       "history": [
         0.0,
         -18.386,
@@ -293,15 +293,15 @@
         -27.036,
         -34.484,
         -34.096,
-        -30.838
+        -31.071
       ]
     },
     {
       "label": "WTI Crude Oil    (CL=F)",
-      "price": 102.57,
-      "chg_pct": 0.62,
+      "price": 102.59,
+      "chg_pct": 0.64,
       "sma20": 96.99,
-      "vs_sma_pct": 5.76,
+      "vs_sma_pct": 5.78,
       "history": [
         0.0,
         -16.414,
@@ -322,7 +322,7 @@
         -5.374,
         -6.977,
         -9.748,
-        -9.19
+        -9.172
       ]
     }
   ],
@@ -1465,17 +1465,6 @@
       "composite": 2.88
     },
     {
-      "symbol": "WY",
-      "price": 23.99,
-      "chg_pct": -2.16,
-      "sma20": 24.68,
-      "pct_below": 2.81,
-      "vol_surge": 1.69,
-      "sector": "Real Estate",
-      "tier": 3,
-      "composite": 4.74
-    },
-    {
       "symbol": "EMR",
       "price": 137.45,
       "chg_pct": -2.13,
@@ -2296,7 +2285,7 @@
         "y": 66.1
       },
       {
-        "x": 1777897966000,
+        "x": 1777898566000,
         "y": 66.1
       }
     ]
@@ -2306,13 +2295,31 @@
       "title": "Berkshire shares trade higher as Buffett successor Abel scores good marks at meeting, earnings jump",
       "link": "https://www.cnbc.com/2026/05/04/berkshire-shares-trade-higher-as-buffett-successor-abel-scores-good-marks-at-meeting-earnings-jump.html",
       "source": "CNBC",
-      "published_ts": 1777891452
+      "published_ts": 1777892056
+    },
+    {
+      "title": "\u2018Misplaced euphoria\u2019: Markets are sleepwalking into a recession amid Iran war oil price shock",
+      "link": "https://www.cnbc.com/2026/05/04/strait-hormuz-gas-price-oil-shock-recession-risk-economy-iran-us-war.html",
+      "source": "CNBC",
+      "published_ts": 1777891834
+    },
+    {
+      "title": "Banks Kick Off Sale of Junk Bonds Backing BASF Coatings Deal",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-04/banks-kick-off-sale-of-junk-bonds-backing-basf-coatings-deal",
+      "source": "Bloomberg",
+      "published_ts": 1777891404
     },
     {
       "title": "Updates From Milken Institute Global Conference",
       "link": "https://www.bloomberg.com/news/live-blog/2026-05-04/milken-institute-global-conference-day-1",
       "source": "Bloomberg",
       "published_ts": 1777891174
+    },
+    {
+      "title": "Trucordia acquires Paradiso Financial and Insurance Services",
+      "link": "https://finance.yahoo.com/sectors/healthcare/articles/trucordia-acquires-paradiso-financial-insurance-123812115.html",
+      "source": "Yahoo Finance",
+      "published_ts": 1777891092
     },
     {
       "title": "EBay soars as Ryan Cohen says GameStop could issue stock to pay for takeover of much bigger retailer",
@@ -2331,12 +2338,6 @@
       "link": "https://finance.yahoo.com/markets/article/gamestop-stock-falls-after-company-proposes-56-billion-deal-for-ebay-122615350.html",
       "source": "Yahoo Finance",
       "published_ts": 1777890375
-    },
-    {
-      "title": "Nvidia Is Up 7% in 2026 While Marvell Technology Has Nearly Doubled. Here's Why.",
-      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-7-2026-while-marvell-122500481.html",
-      "source": "Yahoo Finance",
-      "published_ts": 1777890300
     },
     {
       "title": "Here\u2019s Why Argenx SE (ARGX) Slipped in Q1",
@@ -2369,12 +2370,6 @@
       "published_ts": 1777889220
     },
     {
-      "title": "Meta's public nuisance case in New Mexico has billion-dollar consequences",
-      "link": "https://www.cnbc.com/2026/05/04/meta-new-mexico-child-safety-facebook-instagram.html",
-      "source": "CNBC",
-      "published_ts": 1777888801
-    },
-    {
       "title": "\u2018We\u2019re all worried the honey pot will run dry\u2019: Does the U.S. government borrow from my Social Security to fund federal programs?",
       "link": "https://www.marketwatch.com/story/were-worried-the-honey-pot-will-run-dry-does-the-trump-administration-use-my-social-security-to-fund-federal-programs-1cd01b8f?mod=mw_rss_topstories",
       "source": "MarketWatch",
@@ -2385,14 +2380,49 @@
       "link": "https://www.ft.com/content/483a0aa0-f1c8-4960-be68-c6ea3e9ea3d5",
       "source": "FT Markets",
       "published_ts": 1777886248
-    },
-    {
-      "title": "Warsh's take on Fed independence is met with confusion and some concern",
-      "link": "https://www.cnbc.com/2026/05/04/fed-kevin-warsh-interest-rates.html",
-      "source": "CNBC",
-      "published_ts": 1777885201
     }
   ],
-  "ai_cards": null,
-  "social_buzz": null
+  "ai_cards": [
+    {
+      "category": "Geopolitics & Macro",
+      "icon": "globe",
+      "title": "Iran Tensions Rise",
+      "summary": "Iran has warned the US Navy against entering the Strait of Hormuz, and oil prices have climbed after a disputed report of an Iran strike on a US warship. This escalation in tensions could lead to higher oil prices and increased market volatility.",
+      "impact": "Bearish"
+    },
+    {
+      "category": "Broad Market Trends",
+      "icon": "trending",
+      "title": "Stagflation Fears Grow",
+      "summary": "The markets are starting to price in stagflation, with concerns over rising oil prices and a potential recession. This shift in market sentiment could lead to increased volatility and a decrease in investor appetite for riskier assets.",
+      "impact": "Bearish"
+    },
+    {
+      "category": "Sector Focus",
+      "title": "Retail M&A Heats Up",
+      "icon": "sector",
+      "summary": "GameStop has proposed a $56 billion deal for eBay, and Ryan Cohen has expressed interest in using GameStop stock to pay for the takeover. This move could signal a shift in the retail landscape and potentially lead to increased consolidation in the sector.",
+      "impact": "Neutral"
+    },
+    {
+      "category": "Risk & Sentiment",
+      "icon": "risk",
+      "title": "Recession Fears Rise",
+      "summary": "Markets are sleepwalking into a recession amid an Iran war oil price shock, with some analysts warning of 'misplaced euphoria'. This shift in sentiment could lead to increased risk aversion and a decrease in investor confidence.",
+      "impact": "Bearish"
+    }
+  ],
+  "social_buzz": {
+    "category": "Social Buzz",
+    "icon": "fire",
+    "title": "GameStop eBay Deal Buzz",
+    "summary": "Retail attention is focused on GameStop's proposed $56 billion deal for eBay, driving notable price movements in both stocks. This development, along with significant gains in $XNDU and $SOUN, indicates a dynamic market with various factors at play.",
+    "impact": "Bullish",
+    "sentiment_score": 72,
+    "hot_tickers": [
+      "$GME",
+      "$XNDU",
+      "$SOUN"
+    ]
+  }
 }
