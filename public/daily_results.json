@@ -1,7 +1,7 @@
 {
-  "generated": "May 04, 2026  03:10 PM",
+  "generated": "May 04, 2026  03:51 PM",
   "date": "2026-05-04",
-  "universe_scanned": 495,
+  "universe_scanned": 494,
   "total_setups": 147,
   "tension_score": 79,
   "tension_label": "High",
@@ -124,10 +124,10 @@
     },
     {
       "label": "Bitcoin          (BTC/USD)",
-      "price": 78753.52,
-      "chg_pct": 0.27,
-      "sma20": 76950.73,
-      "vs_sma_pct": 2.34,
+      "price": 78996.19,
+      "chg_pct": 0.58,
+      "sma20": 76962.86,
+      "vs_sma_pct": 2.64,
       "history": [
         0.0,
         0.464,
@@ -148,15 +148,15 @@
         4.51,
         5.15,
         4.991,
-        5.278
+        5.603
       ]
     },
     {
       "label": "Ethereum         (ETH/USD)",
-      "price": 2335.8,
-      "chg_pct": 0.61,
-      "sma20": 2323.56,
-      "vs_sma_pct": 0.53,
+      "price": 2341.7,
+      "chg_pct": 0.86,
+      "sma20": 2323.85,
+      "vs_sma_pct": 0.77,
       "history": [
         0.0,
         -0.457,
@@ -177,15 +177,15 @@
         -2.727,
         -1.831,
         -1.602,
-        -1.002
+        -0.752
       ]
     },
     {
       "label": "Dollar Index     (DXY)",
-      "price": 98.44,
-      "chg_pct": 0.23,
-      "sma20": 98.51,
-      "vs_sma_pct": -0.08,
+      "price": 98.32,
+      "chg_pct": 0.11,
+      "sma20": 98.5,
+      "vs_sma_pct": -0.19,
       "history": [
         0.0,
         -0.512,
@@ -206,15 +206,15 @@
         -0.723,
         -1.566,
         -1.435,
-        -1.208
+        -1.33
       ]
     },
     {
       "label": "Gold Futures     (GC=F / XAU)",
-      "price": 4570.6,
-      "chg_pct": -1.28,
-      "sma20": 4713.17,
-      "vs_sma_pct": -3.02,
+      "price": 4581.2,
+      "chg_pct": -1.05,
+      "sma20": 4713.7,
+      "vs_sma_pct": -2.81,
       "history": [
         0.0,
         1.984,
@@ -235,15 +235,15 @@
         -2.403,
         -0.91,
         -0.584,
-        -1.857
+        -1.63
       ]
     },
     {
       "label": "Silver Futures   (SI=F / XAG)",
-      "price": 73.8,
-      "chg_pct": -2.83,
-      "sma20": 76.18,
-      "vs_sma_pct": -3.12,
+      "price": 74.41,
+      "chg_pct": -2.03,
+      "sma20": 76.21,
+      "vs_sma_pct": -2.36,
       "history": [
         0.0,
         4.731,
@@ -264,15 +264,15 @@
         -0.358,
         2.378,
         5.743,
-        2.748
+        3.598
       ]
     },
     {
       "label": "VIX Volatility   (^VIX)",
-      "price": 18.08,
-      "chg_pct": 6.42,
-      "sma20": 18.93,
-      "vs_sma_pct": -4.48,
+      "price": 17.83,
+      "chg_pct": 4.94,
+      "sma20": 18.91,
+      "vs_sma_pct": -5.73,
       "history": [
         0.0,
         -18.386,
@@ -293,15 +293,15 @@
         -27.036,
         -34.484,
         -34.096,
-        -29.868
+        -30.838
       ]
     },
     {
       "label": "WTI Crude Oil    (CL=F)",
-      "price": 104.1,
-      "chg_pct": 2.12,
-      "sma20": 97.06,
-      "vs_sma_pct": 7.25,
+      "price": 102.57,
+      "chg_pct": 0.62,
+      "sma20": 96.99,
+      "vs_sma_pct": 5.76,
       "history": [
         0.0,
         -16.414,
@@ -322,7 +322,7 @@
         -5.374,
         -6.977,
         -9.748,
-        -7.835
+        -9.19
       ]
     }
   ],
@@ -2296,23 +2296,77 @@
         "y": 66.1
       },
       {
-        "x": 1777895566000,
+        "x": 1777897966000,
         "y": 66.1
       }
     ]
   },
   "news": [
     {
+      "title": "Berkshire shares trade higher as Buffett successor Abel scores good marks at meeting, earnings jump",
+      "link": "https://www.cnbc.com/2026/05/04/berkshire-shares-trade-higher-as-buffett-successor-abel-scores-good-marks-at-meeting-earnings-jump.html",
+      "source": "CNBC",
+      "published_ts": 1777891452
+    },
+    {
+      "title": "Updates From Milken Institute Global Conference",
+      "link": "https://www.bloomberg.com/news/live-blog/2026-05-04/milken-institute-global-conference-day-1",
+      "source": "Bloomberg",
+      "published_ts": 1777891174
+    },
+    {
+      "title": "EBay soars as Ryan Cohen says GameStop could issue stock to pay for takeover of much bigger retailer",
+      "link": "https://www.cnbc.com/2026/05/04/gamestop-ebay-takeover-bid-ryan-cohen-gaming-retail-ecommerce.html",
+      "source": "CNBC",
+      "published_ts": 1777890929
+    },
+    {
+      "title": "Treasuries Start Week Under Pressure as Oil Prices Resume Climb",
+      "link": "https://www.bloomberg.com/news/articles/2026-05-04/treasuries-start-week-under-pressure-as-oil-prices-resume-climb",
+      "source": "Bloomberg",
+      "published_ts": 1777890811
+    },
+    {
+      "title": "GameStop stock falls after company proposes $56 billion deal for eBay",
+      "link": "https://finance.yahoo.com/markets/article/gamestop-stock-falls-after-company-proposes-56-billion-deal-for-ebay-122615350.html",
+      "source": "Yahoo Finance",
+      "published_ts": 1777890375
+    },
+    {
+      "title": "Nvidia Is Up 7% in 2026 While Marvell Technology Has Nearly Doubled. Here's Why.",
+      "link": "https://finance.yahoo.com/markets/stocks/articles/nvidia-7-2026-while-marvell-122500481.html",
+      "source": "Yahoo Finance",
+      "published_ts": 1777890300
+    },
+    {
+      "title": "Here\u2019s Why Argenx SE (ARGX) Slipped in Q1",
+      "link": "https://finance.yahoo.com/sectors/healthcare/articles/why-argenx-se-argx-slipped-121415389.html",
+      "source": "Yahoo Finance",
+      "published_ts": 1777889655
+    },
+    {
+      "title": "What Makes BillionToOne (BLLN) a Revolutionizer in Genetic Testing?",
+      "link": "https://finance.yahoo.com/sectors/healthcare/articles/makes-billiontoone-blln-revolutionizer-genetic-121235928.html",
+      "source": "Yahoo Finance",
+      "published_ts": 1777889555
+    },
+    {
+      "title": "GameStop is hungry for relevance. Is buying eBay the answer?",
+      "link": "https://www.marketwatch.com/story/gamestop-is-hungry-for-relevance-is-buying-ebay-the-answer-de7004a0?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_ts": 1777889520
+    },
+    {
+      "title": "The markets are in the early stages of pricing in stagflation. Here\u2019s what happens next.",
+      "link": "https://www.marketwatch.com/story/the-markets-are-in-the-early-stages-of-pricing-in-stagflation-this-wall-street-giant-finds-25bc7626?mod=mw_rss_topstories",
+      "source": "MarketWatch",
+      "published_ts": 1777889520
+    },
+    {
       "title": "Oil prices climb after disputed report of Iran strike on U.S. warship",
       "link": "https://www.marketwatch.com/story/oil-prices-climb-after-disputed-report-of-iran-strike-on-u-s-warship-in-the-strait-of-hormuz-e09f44c9?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "published_ts": 1777889220
-    },
-    {
-      "title": "Ryan Cohen tells CNBC GameStop could issue more stock to achieve eBay takeover",
-      "link": "https://www.cnbc.com/2026/05/04/gamestop-ebay-takeover-bid-ryan-cohen-gaming-retail-ecommerce.html",
-      "source": "CNBC",
-      "published_ts": 1777889154
     },
     {
       "title": "Meta's public nuisance case in New Mexico has billion-dollar consequences",
@@ -2321,119 +2375,24 @@
       "published_ts": 1777888801
     },
     {
-      "title": "Nebius to acquire Eigen AI in $643m cash-and-stock deal",
-      "link": "https://finance.yahoo.com/sectors/technology/articles/nebius-acquire-eigen-ai-643m-115547101.html",
-      "source": "Yahoo Finance",
-      "published_ts": 1777888547
-    },
-    {
-      "title": "Palantir Stock: Will AI Commercial Revenue Drive Up Software Stocks?",
-      "link": "https://www.investors.com/news/technology/palantir-stock-pltr-software-stocks-q12026/?src=A00220&yptr=yahoo",
-      "source": "Yahoo Finance",
-      "published_ts": 1777888060
-    },
-    {
-      "title": "Bitcoin and ethereum prices today, Monday, May 4, 2026: Bitcoin tops $80,000, then pulls back",
-      "link": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-monday-may-4-2026-bitcoin-tops-80000-then-pulls-back-114547251.html",
-      "source": "Yahoo Finance",
-      "published_ts": 1777887947
-    },
-    {
-      "title": "Your electricity bill rose 40% while utility CEO pay rose 47% \u2014 now, voters are taking it to the ballot boxes",
-      "link": "https://finance.yahoo.com/sectors/energy/articles/electricity-bill-rose-40-while-113500339.html",
-      "source": "Yahoo Finance",
-      "published_ts": 1777887300
-    },
-    {
-      "title": "GameStop is hungry for relevance. Is buying eBay the answer?",
-      "link": "https://www.marketwatch.com/story/gamestop-is-hungry-for-relevance-is-buying-ebay-the-answer-de7004a0?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_ts": 1777886820
-    },
-    {
       "title": "\u2018We\u2019re all worried the honey pot will run dry\u2019: Does the U.S. government borrow from my Social Security to fund federal programs?",
       "link": "https://www.marketwatch.com/story/were-worried-the-honey-pot-will-run-dry-does-the-trump-administration-use-my-social-security-to-fund-federal-programs-1cd01b8f?mod=mw_rss_topstories",
       "source": "MarketWatch",
       "published_ts": 1777886460
     },
     {
-      "title": "The markets are in the early stages of pricing in stagflation. Here\u2019s what happens next.",
-      "link": "https://www.marketwatch.com/story/the-markets-are-in-the-early-stages-of-pricing-in-stagflation-this-wall-street-giant-finds-25bc7626?mod=mw_rss_topstories",
-      "source": "MarketWatch",
-      "published_ts": 1777885260
+      "title": "Iran warns US Navy against entering Strait of Hormuz",
+      "link": "https://www.ft.com/content/483a0aa0-f1c8-4960-be68-c6ea3e9ea3d5",
+      "source": "FT Markets",
+      "published_ts": 1777886248
     },
     {
       "title": "Warsh's take on Fed independence is met with confusion and some concern",
       "link": "https://www.cnbc.com/2026/05/04/fed-kevin-warsh-interest-rates.html",
       "source": "CNBC",
       "published_ts": 1777885201
-    },
-    {
-      "title": "Geothermal Developer Fervo Seeks $1.33 Billion in US IPO",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-04/geothermal-energy-developer-fervo-seeks-1-33-billion-in-us-ipo",
-      "source": "Bloomberg",
-      "published_ts": 1777884520
-    },
-    {
-      "title": "Canada\u2019s beef producers say Mercosur trade deal will devastate industry",
-      "link": "https://www.ft.com/content/cc3c23a5-2b98-4bf4-a08f-d2e15f00637d",
-      "source": "FT Markets",
-      "published_ts": 1777881603
-    },
-    {
-      "title": "The US decoupling from the global gloom has limits",
-      "link": "https://www.ft.com/content/1930dd42-8058-46f4-beaf-52562e07a49c",
-      "source": "FT Markets",
-      "published_ts": 1777881603
-    },
-    {
-      "title": "US Hormuz Plan Leaves Shipowners Guessing as Attacks Persist",
-      "link": "https://www.bloomberg.com/news/articles/2026-05-04/trump-hormuz-plan-leaves-shipowners-guessing-as-attacks-persist",
-      "source": "Bloomberg",
-      "published_ts": 1777871531
     }
   ],
-  "ai_cards": [
-    {
-      "category": "Geopolitics & Macro",
-      "icon": "globe",
-      "title": "Iran Warship Report",
-      "summary": "Disputed report of Iran strike on U.S. warship boosts oil prices, signaling geopolitical tensions could affect energy markets.",
-      "impact": "Bullish"
-    },
-    {
-      "category": "Broad Market Trends",
-      "icon": "trending",
-      "title": "GameStop's eBay Ambitions",
-      "summary": "Ryan Cohen suggests GameStop could issue more stock for eBay takeover, potentially impacting market sentiment and stock valuations.",
-      "impact": "Neutral"
-    },
-    {
-      "category": "Sector Focus",
-      "icon": "sector",
-      "title": "Meta's Legal Troubles",
-      "summary": "Meta faces a billion-dollar public nuisance case in New Mexico, raising concerns about legal risks in tech sector.",
-      "impact": "Bullish"
-    },
-    {
-      "category": "Risk & Sentiment",
-      "icon": "risk",
-      "title": "Stagflation Worries",
-      "summary": "Markets are pricing in stagflation, with potential for further economic uncertainty and market volatility.",
-      "impact": "Bearish"
-    }
-  ],
-  "social_buzz": {
-    "category": "Social Buzz",
-    "icon": "fire",
-    "title": "GameStop and eBay Surge Amid Middle East Tensions",
-    "summary": "GameStop's buyout bid for eBay and rising Middle East tensions are driving retail attention, with potential impacts on market volatility.",
-    "impact": "Bullish",
-    "sentiment_score": 75,
-    "hot_tickers": [
-      "GME",
-      "EBAY",
-      "NQ=F"
-    ]
-  }
+  "ai_cards": null,
+  "social_buzz": null
 }
